@@ -1,0 +1,13 @@
+,sebelum,sesudah
+jumlah baris,100.0,100.0
+jumlah kolom,35.0,41.0
+sel kosong,3.0,0.0
+persen sel kosong,0.086,0.0
+baris duplikat,0.0,0.0
+kode wilayah (CC_2) duplikat,0.0,0.0
+baris melanggar aturan validasi,0.0,0.0
+wilayah ditandai outlier univariat di >= 1 fitur (tidak dihapus),,59.0
+wilayah ditandai outlier univariat di >= 3 fitur (tidak dihapus),,16.0
+wilayah ditandai outlier multivariat oleh salah satu metode (tidak dihapus),,10.0
+wilayah ditandai outlier multivariat oleh kedua metode (tidak dihapus),,0.0
+wilayah diimputasi,0.0,1.0
